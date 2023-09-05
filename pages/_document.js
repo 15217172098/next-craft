@@ -11,6 +11,7 @@ class MyDocument extends Document {
     return (
       <Html lang={BLOG.lang}>
         <Head>
+      <meta name="baidu-site-verification" content="codeva-P1Z6ek56Ss" />
           <link rel='icon' href='/favicon.ico' />
           <link rel='icon' href='/favicon.svg' type='image/svg+xml' />
           {BLOG.appearance === 'auto' ? (
